@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Electronics & Telecommunication | 💻 WordPress Developer | 🌐 Web Enthusiast  
 📍 Barshi, Solapur, Maharashtra, India  
-🔗 [Portfolio Website](http://rohitpatil.unaux.com) | [LinkedIn](https://linkedin.com/in/rohitspatil07) | [GitHub](https://github.com/Rspatil07)
+🔗 [Portfolio Website](http://rohitpatil.rf.gd) | [LinkedIn](https://linkedin.com/in/rohitspatil07) | [GitHub](https://github.com/Rspatil07)
 
 ---
 
@@ -51,7 +51,7 @@ A custom plugin that:
 
 ### 🌐 Personal Portfolio Website  
 A clean, responsive WordPress website showcasing my background, skills, and projects.  
-[🔗 Visit Now](http://rohitpatil.unaux.com)
+[🔗 Visit Now](http://rohitpatil.rf.gd)
 
 ### 🎬 Cinema Explorer – Movie Recommendation Website  
 Built using WordPress, users can explore and search for movies/shows by genre or platform. Includes cast, ratings, and reviews.  
@@ -74,7 +74,7 @@ Designed a fully responsive e-commerce UI using HTML & CSS with a focus on UX an
 
 - 📧 Email: [rohitspatil34@gmail.com](mailto:rohitspatil34@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/rohitspatil07](https://linkedin.com/in/rohitspatil07)  
-- 🔗 Portfolio: [rohitpatil.unaux.com](http://rohitpatil.unaux.com)
+- 🔗 Portfolio: [rohitpatil.unaux.com](http://rohitpatil.rf.gd)
 
 ---
 
